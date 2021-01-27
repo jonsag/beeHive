@@ -17,4 +17,5 @@ Du behöver  [LibreCAD](https://librecad.org/), eller liknande, för att öppna 
 Här finns dessutom mallar för att beräkna materialåtgång.  
 Dessa öppnas lämpligast med [LibreOffice](https://www.libreoffice.org/download/download/), men M$ Office funkar också antar jag...  
 
-![Bikupa(pics/00b.uppstaplad i biodling 2.jpg)  
+![ ](pics/00b.uppstaplad_i_biodling_2.jpg  "Bikupa uppstaplad i biodling 2")
+
